@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "nombre": "Hyrca el Mito",
+    "numero": 1,
+    "grupo": "Caballeros del Dragón",
+    "grupoid": 1,
+    "image": "images/caballeros-del-dragon/carta-01.png",
+    "stats": { "furia": 100000, "magia": 6, "armas": 44000, "fuerza": 136000 }
+  },
+  {
+    "id": 2,
+    "nombre": "Aynep el Noble",
+    "numero": 2,
+    "grupo": "Caballeros del Dragón",
+    "grupoid": 1,
+    "image": "images/caballeros-del-dragon/carta-02.png",
+    "stats": { "furia": 92000, "magia": 10, "armas": 36000, "fuerza": 152000 }
+  },
+  {
+    "id": 3,
+    "nombre": "Kika la Bella",
+    "numero": 3,
+    "grupo": "Caballeros del Dragón",
+    "grupoid": 1,
+    "image": "images/caballeros-del-dragon/carta-03.png",
+    "stats": { "furia": 84000, "magia": 14, "armas": 28000, "fuerza": 168000 }
+  },
+  {
+    "id": 4,
+    "nombre": "Agnim el Magnífico",
+    "numero": 4,
+    "grupo": "Caballeros del Dragón",
+    "grupoid": 1,
+    "image": "images/caballeros-del-dragon/carta-04.png",
+    "stats": { "furia": 76000, "magia": 18, "armas": 20000, "fuerza": 184000 }
+  },
+  {
+    "id": 5,
+    "nombre": "Asor el Jefe",
+    "numero": 5,
+    "grupo": "Caballeros del Dragón",
+    "grupoid": 1,
+    "image": "images/caballeros-del-dragon/carta-05.png",
+    "stats": { "furia": 68000, "magia": 22, "armas": 12000, "fuerza": 200000 }
+  },
+  {
+    "id": 6,
+    "nombre": "Fritz el Caballero",
+    "numero": 6,
+    "grupo": "Caballeros del Dragón",
+    "grupoid": 1,
+    "image": "images/caballeros-del-dragon/carta-06.png",
+    "stats": { "furia": 60000, "magia": 26, "armas": 100000, "fuerza": 24000 }
+  },
+  {
+    "id": 7,
+    "nombre": "Airam la Guerrera",
+    "numero": 7,
+    "grupo": "Caballeros del Dragón",
+    "grupoid": 1,
+    "image": "images/caballeros-del-dragon/carta-07.png",
+    "stats": { "furia": 52000, "magia": 30, "armas": 92000, "fuerza": 40000 }
+  },
+  {
+    "id": 8,
+    "nombre": "Ubaram la Voladora",
+    "numero": 8,
+    "grupo": "Caballeros del Dragón",
+    "grupoid": 1,
+    "image": "images/caballeros-del-dragon/carta-08.png",
+    "stats": { "furia": 44000, "magia": 34, "armas": 84000, "fuerza": 56000 }
+  },
+  {
+    "id": 9,
+    "nombre": "Saiasi el Domador",
+    "numero": 9,
+    "grupo": "Caballeros del Dragón",
+    "grupoid": 1,
+    "image": "images/caballeros-del-dragon/carta-09.png",
+    "stats": { "furia": 36000, "magia": 38, "armas": 76000, "fuerza": 72000 }
+  },
+  {
+    "id": 10,
+    "nombre": "Aivlis la Valquiria",
+    "numero": 10,
+    "grupo": "Caballeros del Dragón",
+    "grupoid": 1,
+    "image": "images/caballeros-del-dragon/carta-10.png",
+    "stats": { "furia": 28000, "magia": 42, "armas": 68000, "fuerza": 88000 }
+  },
+  {
+    "id": 11,
+    "nombre": "Cyan el Violento",
+    "numero": 11,
+    "grupo": "Caballeros del Dragón",
+    "grupoid": 1,
+    "image": "images/caballeros-del-dragon/carta-11.png",
+    "stats": { "furia": 20000, "magia": 46, "armas": 60000, "fuerza": 104000 }
+  },
+  {
+    "id": 12,
+    "nombre": "Olbap el Digno",
+    "numero": 12,
+    "grupo": "Caballeros del Dragón",
+    "grupoid": 1,
+    "image": "images/caballeros-del-dragon/carta-12.png",
+    "stats": { "furia": 12000, "magia": 50, "armas": 52000, "fuerza": 120000 }
+  },
+  {
+    "id": 13,
+    "nombre": "Neila la Canalla",
+    "numero": 1,
+    "grupo": "Escuadra Infernal",
+    "grupoid": 2,
+    "image": "images/escuadra-infernal/carta-01.png",
+    "stats": { "furia": 96000, "magia": 8, "armas": 40000, "fuerza": 144000 }
+  },
+  {
+    "id": 14,
+    "nombre": "Tuk-Et el Sádico",
+    "numero": 2,
+    "grupo": "Escuadra Infernal",
+    "grupoid": 2,
+    "image": "images/escuadra-infernal/carta-02.png",
+    "stats": { "furia": 88000, "magia": 12, "armas": 32000, "fuerza": 160000 }
+  },
+  {
+    "id": 15,
+    "nombre": "Goram el Renegado",
+    "numero": 3,
+    "grupo": "Escuadra Infernal",
+    "grupoid": 2,
+    "image": "images/escuadra-infernal/carta-03.png",
+    "stats": { "furia": 80000, "magia": 16, "armas": 24000, "fuerza": 176000 }
+  },
+  {
+    "id": 16,
+    "nombre": "Neleb la Odiosa",
+    "numero": 4,
+    "grupo": "Escuadra Infernal",
+    "grupoid": 2,
+    "image": "images/escuadra-infernal/carta-04.png",
+    "stats": { "furia": 72000, "magia": 20, "armas": 16000, "fuerza": 192000 }
+  },
+  {
+    "id": 17,
+    "nombre": "Korn el Infiel",
+    "numero": 5,
+    "grupo": "Escuadra Infernal",
+    "grupoid": 2,
+    "image": "images/escuadra-infernal/carta-05.png",
+    "stats": { "furia": 64000, "magia": 24, "armas": 8000, "fuerza": 16000 }
+  },
+  {
+    "id": 18,
+    "nombre": "Mork el Cobarde",
+    "numero": 6,
+    "grupo": "Escuadra Infernal",
+    "grupoid": 2,
+    "image": "images/escuadra-infernal/carta-06.png",
+    "stats": { "furia": 56000, "magia": 28, "armas": 96000, "fuerza": 32000 }
+  },
+  {
+    "id": 19,
+    "nombre": "Aycarg el Maligno",
+    "numero": 7,
+    "grupo": "Escuadra Infernal",
+    "grupoid": 2,
+    "image": "images/escuadra-infernal/carta-07.png",
+    "stats": { "furia": 48000, "magia": 32, "armas": 88000, "fuerza": 48000 }
+  },
+  {
+    "id": 20,
+    "nombre": "Atepaj la Temida",
+    "numero": 8,
+    "grupo": "Escuadra Infernal",
+    "grupoid": 2,
+    "image": "images/escuadra-infernal/carta-08.png",
+    "stats": { "furia": 40000, "magia": 36, "armas": 80000, "fuerza": 64000 }
+  },
+  {
+    "id": 21,
+    "nombre": "Nameok el Criminal",
+    "numero": 9,
+    "grupo": "Escuadra Infernal",
+    "grupoid": 2,
+    "image": "images/escuadra-infernal/carta-09.png",
+    "stats": { "furia": 32000, "magia": 40, "armas": 72000, "fuerza": 80000 }
+  },
+  {
+    "id": 22,
+    "nombre": "Mohawk el Desleal",
+    "numero": 10,
+    "grupo": "Escuadra Infernal",
+    "grupoid": 2,
+    "image": "images/escuadra-infernal/carta-10.png",
+    "stats": { "furia": 24000, "magia": 44, "armas": 64000, "fuerza": 96000 }
+  },
+  {
+    "id": 23,
+    "nombre": "Akdov la Ladrona",
+    "numero": 11,
+    "grupo": "Escuadra Infernal",
+    "grupoid": 2,
+    "image": "images/escuadra-infernal/carta-11.png",
+    "stats": { "furia": 16000, "magia": 48, "armas": 56000, "fuerza": 112000 }
+  },
+  {
+    "id": 24,
+    "nombre": "Fonrims el Bandido",
+    "numero": 12,
+    "grupo": "Escuadra Infernal",
+    "grupoid": 2,
+    "image": "images/escuadra-infernal/carta-12.png",
+    "stats": { "furia": 8000, "magia": 4, "armas": 48000, "fuerza": 128000 }
+  },
+  {
+    "id": 25,
+    "nombre": "Kryn el Traidor",
+    "numero": 1,
+    "grupo": "Legión Oscura",
+    "grupoid": 3,
+    "image": "images/legion-oscura/carta-01.png",
+    "stats": { "furia": 96000, "magia": 6, "armas": 48000, "fuerza": 120000 }
+  },
+  {
+    "id": 26,
+    "nombre": "Rais el Villano",
+    "numero": 2,
+    "grupo": "Legión Oscura",
+    "grupoid": 3,
+    "image": "images/legion-oscura/carta-02.png",
+    "stats": { "furia": 88000, "magia": 10, "armas": 40000, "fuerza": 136000 }
+  },
+  {
+    "id": 27,
+    "nombre": "Khan el Diabólico",
+    "numero": 3,
+    "grupo": "Legión Oscura",
+    "grupoid": 3,
+    "image": "images/legion-oscura/carta-03.png",
+    "stats": { "furia": 80000, "magia": 14, "armas": 32000, "fuerza": 152000 }
+  },
+  {
+    "id": 28,
+    "nombre": "Hapeth el Malvado",
+    "numero": 4,
+    "grupo": "Legión Oscura",
+    "grupoid": 3,
+    "image": "images/legion-oscura/carta-04.png",
+    "stats": { "furia": 72000, "magia": 18, "armas": 24000, "fuerza": 168000 }
+  },
+  {
+    "id": 29,
+    "nombre": "Nixi el Diablo",
+    "numero": 5,
+    "grupo": "Legión Oscura",
+    "grupoid": 3,
+    "image": "images/legion-oscura/carta-05.png",
+    "stats": { "furia": 64000, "magia": 22, "armas": 16000, "fuerza": 184000 }
+  },
+  {
+    "id": 30,
+    "nombre": "Sarcus el Maléfico",
+    "numero": 6,
+    "grupo": "Legión Oscura",
+    "grupoid": 3,
+    "image": "images/legion-oscura/carta-06.png",
+    "stats": { "furia": 56000, "magia": 26, "armas": 8000, "fuerza": 200000 }
+  },
+  {
+    "id": 31,
+    "nombre": "Igrifa la Roñosa",
+    "numero": 7,
+    "grupo": "Legión Oscura",
+    "grupoid": 3,
+    "image": "images/legion-oscura/carta-07.png",
+    "stats": { "furia": 48000, "magia": 30, "armas": 96000, "fuerza": 24000 }
+  },
+  {
+    "id": 32,
+    "nombre": "Bahisha el Ingrato",
+    "numero": 8,
+    "grupo": "Legión Oscura",
+    "grupoid": 3,
+    "image": "images/legion-oscura/carta-08.png",
+    "stats": { "furia": 40000, "magia": 34, "armas": 88000, "fuerza": 40000 }
+  },
+  {
+    "id": 33,
+    "nombre": "Dekoz el Indigno",
+    "numero": 9,
+    "grupo": "Legión Oscura",
+    "grupoid": 3,
+    "image": "images/legion-oscura/carta-09.png",
+    "stats": { "furia": 32000, "magia": 38, "armas": 80000, "fuerza": 56000 }
+  },
+  {
+    "id": 34,
+    "nombre": "Maka la Cutre",
+    "numero": 10,
+    "grupo": "Legión Oscura",
+    "grupoid": 3,
+    "image": "images/legion-oscura/carta-10.png",
+    "stats": { "furia": 24000, "magia": 42, "armas": 72000, "fuerza": 72000 }
+  },
+  {
+    "id": 35,
+    "nombre": "Yashew el Desertor",
+    "numero": 11,
+    "grupo": "Legión Oscura",
+    "grupoid": 3,
+    "image": "images/legion-oscura/carta-11.png",
+    "stats": { "furia": 16000, "magia": 46, "armas": 64000, "fuerza": 88000 }
+  },
+  {
+    "id": 36,
+    "nombre": "Zorkum la Vil",
+    "numero": 12,
+    "grupo": "Legión Oscura",
+    "grupoid": 3,
+    "image": "images/legion-oscura/carta-12.png",
+    "stats": { "furia": 8000, "magia": 50, "armas": 56000, "fuerza": 104000 }
+  },
+  {
+    "id": 37,
+    "nombre": "Haan el Leal",
+    "numero": 1,
+    "grupo": "Lords del Oro",
+    "grupoid": 4,
+    "image": "images/lords-del-oro/carta-01.png",
+    "stats": { "furia": 100000, "magia": 4, "armas": 52000, "fuerza": 112000 }
+  },
+  {
+    "id": 38,
+    "nombre": "Argos el Arquero",
+    "numero": 2,
+    "grupo": "Lords del Oro",
+    "grupoid": 4,
+    "image": "images/lords-del-oro/carta-02.png",
+    "stats": { "furia": 92000, "magia": 8, "armas": 44000, "fuerza": 128000 }
+  },
+  {
+    "id": 39,
+    "nombre": "Vick el Galán",
+    "numero": 3,
+    "grupo": "Lords del Oro",
+    "grupoid": 4,
+    "image": "images/lords-del-oro/carta-03.png",
+    "stats": { "furia": 84000, "magia": 12, "armas": 36000, "fuerza": 144000 }
+  },
+  {
+    "id": 40,
+    "nombre": "Cram el Sencillo",
+    "numero": 4,
+    "grupo": "Lords del Oro",
+    "grupoid": 4,
+    "image": "images/lords-del-oro/carta-04.png",
+    "stats": { "furia": 76000, "magia": 16, "armas": 28000, "fuerza": 160000 }
+  },
+  {
+    "id": 41,
+    "nombre": "Adnaloy la Amazona",
+    "numero": 5,
+    "grupo": "Lords del Oro",
+    "grupoid": 4,
+    "image": "images/lords-del-oro/carta-05.png",
+    "stats": { "furia": 68000, "magia": 20, "armas": 20000, "fuerza": 176000 }
+  },
+  {
+    "id": 42,
+    "nombre": "Reivax el Grande",
+    "numero": 6,
+    "grupo": "Lords del Oro",
+    "grupoid": 4,
+    "image": "images/lords-del-oro/carta-06.png",
+    "stats": { "furia": 60000, "magia": 24, "armas": 12000, "fuerza": 192000 }
+  },
+  {
+    "id": 43,
+    "nombre": "Izaac el Fuerte",
+    "numero": 7,
+    "grupo": "Lords del Oro",
+    "grupoid": 4,
+    "image": "images/lords-del-oro/carta-07.png",
+    "stats": { "furia": 52000, "magia": 28, "armas": 100000, "fuerza": 16000 }
+  },
+  {
+    "id": 44,
+    "nombre": "Aman la Cazadora",
+    "numero": 8,
+    "grupo": "Lords del Oro",
+    "grupoid": 4,
+    "image": "images/lords-del-oro/carta-08.png",
+    "stats": { "furia": 44000, "magia": 32, "armas": 92000, "fuerza": 32000 }
+  },
+  {
+    "id": 45,
+    "nombre": "Diva la Soldado",
+    "numero": 9,
+    "grupo": "Lords del Oro",
+    "grupoid": 4,
+    "image": "images/lords-del-oro/carta-09.png",
+    "stats": { "furia": 36000, "magia": 36, "armas": 84000, "fuerza": 48000 }
+  },
+  {
+    "id": 46,
+    "nombre": "Jeza la Capitana",
+    "numero": 10,
+    "grupo": "Lords del Oro",
+    "grupoid": 4,
+    "image": "images/lords-del-oro/carta-10.png",
+    "stats": { "furia": 28000, "magia": 40, "armas": 76000, "fuerza": 64000 }
+  },
+  {
+    "id": 47,
+    "nombre": "Miuq el Bueno",
+    "numero": 11,
+    "grupo": "Lords del Oro",
+    "grupoid": 4,
+    "image": "images/lords-del-oro/carta-11.png",
+    "stats": { "furia": 20000, "magia": 44, "armas": 68000, "fuerza": 80000 }
+  },
+  {
+    "id": 48,
+    "nombre": "Guill el Brutal",
+    "numero": 12,
+    "grupo": "Lords del Oro",
+    "grupoid": 4,
+    "image": "images/lords-del-oro/carta-12.png",
+    "stats": { "furia": 12000, "magia": 48, "armas": 60000, "fuerza": 96000 }
+  }
+]
